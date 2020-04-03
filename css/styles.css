@@ -1,0 +1,137 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: Comic Sans MS;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+h2 {
+  font-family: 'Carme', sans-serif;
+  font-size: 30px;
+  color: #45b29a;
+  margin: 0;
+}
+
+h3 {
+  color: #45b29a;
+  font-size: 22px;
+}
+
+hr {
+  width: 3%;
+  border-style: dotted;
+  border-width: 5px 0 0 0;
+  border-color: grey;
+  margin: 50px auto;
+}
+
+.mh {
+  margin: 0;
+  font-size: 45px;
+}
+
+.x {
+  padding-bottom: 30px;
+  font-size: 25px;
+  font-family: 'Pacifico', cursive;
+}
+
+.top-container {
+  /*background-color: #c6fce5;dff5f2 a8e6cf*/
+  background-color: #E0EBE8;
+  padding-top: 120px;
+  position: relative;
+  margin: 0;
+  color: #45b29a;
+}
+
+.land {
+  margin: 0;
+}
+
+.upper-cloud {
+  position: absolute;
+  top: 50px;
+  right: 400px;
+}
+
+.lower-cloud {
+  position: absolute;
+  top: 200px;
+  left: 200px;
+}
+
+.dp {
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+  border-width: 5px;
+  border-style: solid;
+  border-color: white;
+}
+
+.dp:hover {
+  border-color: #45b29a;
+}
+
+.intro {
+  width: 38%;
+  margin: auto;
+}
+
+.middle-container {
+  margin-top: 50px;
+}
+
+.mch {
+  padding-top: 15px;
+  color: #45b29a;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.py {
+  height: 20%;
+  width: 20%;
+  float: left;
+  margin-right: 20px;
+}
+
+.web {
+  height: 200px;
+  width: 320px;
+  float: right;
+}
+
+.space {
+  margin-bottom: 40px;
+}
+
+.bottom-container {
+  height: 90px;
+  background-color: #45b29a;
+  padding-bottom: 2px;
+}
+
+.links {
+  padding-top: 20px;
+}
+
+.social-logo {
+  height: 20px;
+  width: 20px;
+}
+
+.copyright {
+  color: white;
+  margin: 0;
+}
